@@ -1,8 +1,5 @@
 /*
-  Theme Name: DevFolio
-  Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
+  
 */
 
 /*======================================
@@ -481,7 +478,7 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #0078ff;
+  color: #131313;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
@@ -496,7 +493,7 @@ a:hover {
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #0078ff;
+  color: #ffbb64;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
@@ -1006,7 +1003,7 @@ a:hover {
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #0078ff;
+  border-left: 5px solid #d4e7c5;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
