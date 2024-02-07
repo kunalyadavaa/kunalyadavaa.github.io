@@ -1,6 +1,5 @@
 
-
 Web Name: Kunal's Portfolio
 Web URL: https://kunalyadav19.github.io/
 Developer : Kunal Yadav
-Github URL: https://kunalyadav19.github.com/
+Github URL: https://github.com/kunalyadav19
